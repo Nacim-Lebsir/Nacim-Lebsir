@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Nacim Lebsir
-- 👀 I’m interested in Computer Networks & Systems & Security 
-- 🌱 I’m currently learning BlueTeaming Stuff, exactly Elearning Certified Incident Handler Certificate ( ECIR ), and a lot of Security things
-- 💞️ I’m looking to collaborate on anything related with my field
+- 👀 Conquering All Domains of Security.
+- 🌱 I'm actively improving my skillset.
+- 💞️ I'm currently working on Blue Teaming certificates
 - 📫 You can find me on Linkedin: https://www.linkedin.com/in/nacim-lebsir/
 
 <!---
